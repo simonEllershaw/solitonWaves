@@ -5,7 +5,8 @@ This script was used in to analyse videos of the soliton wave phenomena
 
 ![](sampleData_graph.png)
 
-##To Run
+
+## To Run
 
 Takes png input video frames with fnames as timestamps in ms. The locations 
 is specified in the main function as 'directory'. Example data is given under the sample folder
