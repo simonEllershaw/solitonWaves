@@ -3,6 +3,8 @@
 This script was used in to analyse videos of the soliton wave phenomena
 (for full details on how please see SolitionReport.pdf)
 
+![](sampleData_graph.png)
+
 ##To Run
 
 Takes png input video frames with fnames as timestamps in ms. The locations 
